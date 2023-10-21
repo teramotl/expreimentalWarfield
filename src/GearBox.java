@@ -23,3 +23,10 @@ public class GearBox {
         return gear;
     }
 }
+
+/*public static void main(String[] args) {
+ GearBox gearBox = new GearBox();
+ System.out.println(gearBox.getCurrentGear());
+
+ }
+ */

@@ -1,7 +1,7 @@
 public class Main {
-    public static void main(String[] args) {
-        GearBox gearBox = new GearBox();
-        System.out.println(gearBox.getCurrentGear());
+    productinfo product = new productinfo("Торт Наполеон", 1000);
+    productinfo product1 = new productinfo("Молоко", 85);
 
-    }
+    System.out.println(productinfo.getCount);
+    System.out.println(productinfo.getAveragePrice());
 }
