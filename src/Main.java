@@ -10,5 +10,6 @@ public class Main {
             char c = (char) i;
             System.out.println(i + " - " + c);
         }
+        System.out.println((char) 1025);
     }
 }
