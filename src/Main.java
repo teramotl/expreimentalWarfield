@@ -1,5 +1,8 @@
+import java.time.LocalDate;
+
 public class Main {
     public static void main(String[] args) {
+
         String newLine = System.lineSeparator();
 
         productinfo product = new productinfo("Торт Наполеон", 1000);
